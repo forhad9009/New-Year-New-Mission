@@ -128,6 +128,36 @@
     font-weight: 900;
 }
 
+
+
+.holiday-sales{
+    margin: 100px 140px;
+    text-align: center;
+    
+}
+.holiday-sales h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.holiday-images .images2{
+    position: relative;
+}
+.holiday-images .images1{
+    position: relative;
+    right: 0;
+    bottom: 0;
+}
+.holiday-images .images3{
+    position: relative;
+    left: 100px;
+    top: 200px;
+}
+.holiday-images .images4{
+    position: relative;
+}
+
+
+
 .gift-section{
     margin: 100px 140px;
 }
