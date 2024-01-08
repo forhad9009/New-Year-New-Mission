@@ -16,7 +16,8 @@
     background-image: url('../resources/Banner\ Image.png');
     background-position: center;
     background-size: contain;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, , 17, 0.00) 100%) ;
+    /* background: linear-gradient(180deg, #070211 0%, rgba(7, , 17, 0.00) 100%) ; */
+    background: linear-gradient( 180deg, rgba(10, 9, 9, 0.041) 0%, #f3dcdcee 100%);
     background-repeat: no-repeat;
     border-radius: 16px;
     height: 600px;
