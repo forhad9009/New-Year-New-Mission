@@ -11,10 +11,13 @@
 
 .banner{
     background-image: url('../resources/Banner\ Image.png');
-    /* background: linear-gradient( 180deg, rgb(14, 13, 13)); */
+    background-position: center;
+    background-size: contain;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, , 17, 0.00) 100%) ;
+    background-repeat: no-repeat;
     border-radius: 16px;
     height: 600px;
-    margin: 50px 140px;
+    margin: 0px 140px;
     display: flex;
     justify-content: center;
     align-items: center;
